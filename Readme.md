@@ -20,7 +20,7 @@
 - 🌱 Building systems across domains: **Smart Hiring**, **Education**, **Freelancing** & **Gaming**
 - 💡 Passionate about combining **AI/ML** with **Interactive Design** and **Game Mechanics**
 - 👯 Looking to collaborate on **Full Stack Projects** and **Open Source Contributions**
-- 📫 How to reach me: **ramcharan.dev@gmail.com**
+- 📫 How to reach me: **ramcharan2310608@ssn.edu.in**
 - ⚡ Fun fact: **I built my first project (Course Registration System) in C using Raylib, igniting my passion for both low-level programming and creative interfaces!**
 
 ---
