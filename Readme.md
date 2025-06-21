@@ -25,72 +25,169 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Arsenal & Expertise
 
 <div align="center">
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+### 💻 Programming Languages
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" />
+<br>C++
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+<br>C
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="48" height="48" />
+<br>C#
+</td>
+</tr>
+</table>
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🎨 Frontend Technologies
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+<br>React.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br>CSS3
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+<br>Tailwind CSS
+</td>
+</tr>
+</table>
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+### ⚙️ Backend Technologies
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
+<br>Express.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
+<br>Spring Boot
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+<br>Flask
+</td>
+</tr>
+</table>
 
-### Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### 📱 Mobile Development
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
+<br>React Native
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+<br>Flutter
+</td>
+</tr>
+</table>
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+### 🗄️ Databases
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="Oracle" />
+<br>Oracle
+</td>
+</tr>
+</table>
 
-### AI/ML & Real-time
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Flask-SocketIO](https://img.shields.io/badge/Flask_SocketIO-000000?style=for-the-badge&logo=flask&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+### 🎮 Game/Graphics Development
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
+<br>Unity
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="Raylib" />
+<br>Raylib
+</td>
+</tr>
+</table>
 
-### Game Development & Graphics
-![Raylib](https://img.shields.io/badge/Raylib-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
-### DevOps & Cloud (Learning)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### Tools & IDEs
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🔧 Development Tools
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA" />
+<br>IntelliJ IDEA
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br>Postman
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramcharan-Swaminathan&layout=compact&theme=github_dark&langs_count=6&hide=CMake" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramcharan-Swaminathan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
   
-  ![Ramcharan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramcharan-Swaminathan&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramcharan-Swaminathan&layout=compact&theme=radical&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ramcharan-Swaminathan&theme=radical&hide_border=true)
 
 </div>
 
@@ -193,6 +290,18 @@ const ramcharan = {
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramcharan-Swaminathan&theme=react-dark&hide_border=true&area=true)
 
 ---
+### 🏆 GitHub Trophies
+<div align-"center">
+<img width="800" src="https://github-profile-trophy.vercel.app/?username=Ramcharan-Swaminathan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/>
+</div>
+
+### 📅 Contribution Calendar
+
+<img src="https://ghchart.rshah.org/FF6600/Ramcharan-Swaminathan" alt="Ramcharan's Github chart" width="800"/>
+
+</div>
+
+---
 
 ## 🎓 Academic Journey
 
@@ -232,7 +341,7 @@ const ramcharan = {
   
   ### 🚀 "The best way to predict the future is to invent it." - Alan Kay
   
-  **💼 Open for Summer 2025 Internships | Full Stack & Cloud Development Roles**
+  **💼 Open for Summer 2025 & 26 Internships | Full Stack & Cloud Development Roles or any other SDE roles**
   
   ⭐️ From [Ramcharan-Swaminathan](https://github.com/Ramcharan-Swaminathan)
   
