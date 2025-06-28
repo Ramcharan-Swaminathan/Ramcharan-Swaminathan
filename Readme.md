@@ -1,18 +1,78 @@
-# Hi there, I'm Ramcharan S! 👋
+# 🚀 Ramcharan S | Full Stack Developer & AI/ML Enthusiast
 
 <div align="center">
-  
-  ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-  ### 🚀 Full Stack Developer | AI/ML Enthusiast | Game Developer
+<!-- Enhanced animated banner with better styling -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Animation">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Third+Year+CSE+Student+at+SSN+College;Full+Stack+Developer+with+AI%2FML+Experience;Hackathon+Winner+%7C+Problem+Solver;Building+systems+that+solve+real+problems)](https://git.io/typing-svg)
+<!-- Improved typing banner with more dynamic content -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1500&color=36BCF7&center=true&vCenter=true&width=900&height=120&lines=Hi+there!+I'm+Ramcharan+S+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Game+Developer+%7C+Hackathon+Winner;Third+Year+CSE+Student+at+SSN+College;Building+systems+that+solve+real+problems;Welcome+to+my+Digital+Universe!+%F0%9F%9A%80" alt="Typing SVG" />
+
+<!-- Floating tech stack icons -->
+<div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+</div>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🎯 **Mission Control**
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[🚀 Current Mission] --> B[🎓 Third Year CSE Student]
+    A --> C[🏆 Hackathon Winner]
+    A --> D[💻 Full Stack Development]
+    B --> E[SSN College of Engineering]
+    C --> F[InterVueX - 1st Place]
+    D --> G[AI/ML Integration]
+    G --> H[Smart Hiring Platform]
+    G --> I[Real-time Systems]
+    
+    style A fill:#36BCF7,stroke:#333,stroke-width:3px
+    style B fill:#FF6B6B,stroke:#333,stroke-width:2px
+    style C fill:#4ECDC4,stroke:#333,stroke-width:2px
+    style D fill:#45B7D1,stroke:#333,stroke-width:2px
+```
+
+</div>
+
+---
+
+## 🧑‍💻 **About The Developer**
+
+<div align="center">
+
+<img align="right" alt="Developer Workspace Animation" width="450" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-689a-4a57-a34d-8c3c2a0e5b8b.gif">
+
+</div>
+
+<div align="left">
+
+### 🎮 **Developer Profile Card**
+
+```json
+{
+  "name": "Ramcharan S",
+  "title": "Full Stack Developer & AI/ML Enthusiast",
+  "education": "Third Year CSE Student at SSN College",
+  "location": "Chennai, India 🇮🇳",
+  "achievement": "🏆 1st Place Winner at InnovateX Hackathon 2025",
+  "currentFocus": ["Web Development", "Cloud & DevOps", "DSA"],
+  "domains": ["Smart Hiring", "Education", "Freelancing", "Gaming"],
+  "passion": "Combining AI/ML with Interactive Design and Game Mechanics",
+  "funFact": "Built first project (Course Registration System) in C using Raylib!",
+  "superpower": "Turning complex problems into elegant solutions 💡"
+}
+```
+
+### 🎯 **Key Highlights**
 
 - 🎓 **Third Year CSE Student** at **Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai**
 - 🏆 **1st Place Winner** at InnovateX Hackathon 2025 for InterVueX
@@ -21,15 +81,20 @@
 - 💡 Passionate about combining **AI/ML** with **Interactive Design** and **Game Mechanics**
 - 👯 Looking to collaborate on **Full Stack Projects** and **Open Source Contributions**
 - 📫 How to reach me: **ramcharan2310608@ssn.edu.in**
-- ⚡ Fun fact: **I built my first project (Course Registration System) in C using Raylib, igniting my passion for both low-level programming and creative interfaces!**
+
+</div>
 
 ---
 
-## 🛠️ Tech Arsenal & Expertise
+## ⚡ **Tech Arsenal - Level Up!**
 
 <div align="center">
 
-### 💻 Programming Languages
+### 🎯 **Skill Tree**
+
+<details>
+<summary><b>💻 Programming Languages</b></summary>
+<br>
 <table>
 <tr>
 <td align="center" width="96">
@@ -58,8 +123,11 @@
 </td>
 </tr>
 </table>
+</details>
 
-### 🎨 Frontend Technologies
+<details>
+<summary><b>🎨 Frontend Technologies</b></summary>
+<br>
 <table>
 <tr>
 <td align="center" width="96">
@@ -80,8 +148,11 @@
 </td>
 </tr>
 </table>
+</details>
 
-### ⚙️ Backend Technologies
+<details>
+<summary><b>⚙️ Backend Technologies</b></summary>
+<br>
 <table>
 <tr>
 <td align="center" width="96">
@@ -102,8 +173,11 @@
 </td>
 </tr>
 </table>
+</details>
 
-### 📱 Mobile Development
+<details>
+<summary><b>📱 Mobile Development</b></summary>
+<br>
 <table>
 <tr>
 <td align="center" width="96">
@@ -116,8 +190,11 @@
 </td>
 </tr>
 </table>
+</details>
 
-### 🗄️ Databases
+<details>
+<summary><b>🗄️ Databases</b></summary>
+<br>
 <table>
 <tr>
 <td align="center" width="96">
@@ -134,8 +211,11 @@
 </td>
 </tr>
 </table>
+</details>
 
-### 🎮 Game/Graphics Development
+<details>
+<summary><b>🎮 Game/Graphics Development</b></summary>
+<br>
 <table>
 <tr>
 <td align="center" width="96">
@@ -148,8 +228,11 @@
 </td>
 </tr>
 </table>
+</details>
 
-### 🔧 Development Tools
+<details>
+<summary><b>🔧 Development Tools</b></summary>
+<br>
 <table>
 <tr>
 <td align="center" width="96">
@@ -170,100 +253,164 @@
 </td>
 </tr>
 </table>
+</details>
 
 </div>
 
 ---
 
-
-## 📊 GitHub Stats
+## 🔥 **GitHub Analytics & Consistency**
 
 <div align="center">
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramcharan-Swaminathan&layout=compact&theme=github_dark&langs_count=6&hide=CMake" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramcharan-Swaminathan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+### 📊 **My Coding Journey**
 
-  
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Ramcharan-Swaminathan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramcharan-Swaminathan&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&hide=CMake"/>
+</div>
+
+### 🏆 **GitHub Streak & Trophies**
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramcharan-Swaminathan&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=36BCF7&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+
+<img width="800" src="https://github-profile-trophy.vercel.app/?username=Ramcharan-Swaminathan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/>
+
+### 📈 **Activity Timeline**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramcharan-Swaminathan&theme=react-dark&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&area_color=36BCF7&area_opacity=0.1" alt="Activity Graph" />
+
+### 📅 **Contribution Calendar**
+
+<img src="https://ghchart.rshah.org/36BCF7/Ramcharan-Swaminathan" alt="Ramcharan's Github chart" width="800"/>
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 **Featured Projects Showcase**
 
 <div align="center">
 
 ### 🎯 **InterVueX - Smart Hiring Platform** 
-*React + Spring Boot + Flask (AI/ML Microservice) + Jitsi Video Calls*
+*🏆 1st Place Winner at InnovateX Hackathon 2025*
 
-A comprehensive hiring platform that transforms recruitment with AI-powered features:
-- Resume-based question generation
-- Real-time sentiment analysis during interviews
-- Rubric-based scoring system
-- Seamless video interviews via Jitsi integration
-- Interactive dashboards for candidates and interviewers
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Jitsi-75C043?style=for-the-badge&logo=jitsi&logoColor=white" alt="Jitsi">
+</div>
 
-**🏆 1st Place Winner at InnovateX Hackathon 2025**
+**A comprehensive hiring platform that transforms recruitment with AI-powered features:**
+- 🤖 Resume-based question generation
+- 😊 Real-time sentiment analysis during interviews
+- 📊 Rubric-based scoring system
+- 🎥 Seamless video interviews via Jitsi integration
+- 📈 Interactive dashboards for candidates and interviewers
 
 ---
 
 ### 📚 **Peer Learn - P2P Learning Platform** 
 *React + Spring Boot*
 
-An innovative peer-to-peer academic collaboration platform that:
-- Connects students to share knowledge
-- Facilitates real-time collaboration
-- Creates a community-driven learning environment
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+</div>
+
+**An innovative peer-to-peer academic collaboration platform that:**
+- 🤝 Connects students to share knowledge
+- ⚡ Facilitates real-time collaboration
+- 🌟 Creates a community-driven learning environment
 
 ---
 
 ### 💼 **Freelancing Platform (Prototype)**
 *React + Flask + MongoDB*
 
-A gamified freelancing ecosystem with:
-- League-based rankings for freelancers
-- Escrow-backed milestone verification
-- Dynamic gig browsing and recommendation system
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+</div>
+
+**A gamified freelancing ecosystem with:**
+- 🏆 League-based rankings for freelancers
+- 🔒 Escrow-backed milestone verification
+- 🎯 Dynamic gig browsing and recommendation system
 
 ---
 
 ### 🕹️ **Real-Time Multiplayer Game**
 *React + Flask-SocketIO*
 
-A prototype multiplayer game featuring:
-- Player state synchronization
-- WebSocket communication
-- Real-time interaction mechanics
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io">
+</div>
+
+**A prototype multiplayer game featuring:**
+- 🎮 Player state synchronization
+- 🔄 WebSocket communication
+- ⚡ Real-time interaction mechanics
 
 ---
 
 ### 🍽️ **FoodByte - Food Inventory & Wastage Tracker**
 *React + Node.js*
 
-A system to reduce food wastage by:
-- Monitoring institutional inventory
-- Analyzing consumption patterns
-- Optimizing food ordering and usage
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+</div>
+
+**A system to reduce food wastage by:**
+- 📊 Monitoring institutional inventory
+- 📈 Analyzing consumption patterns
+- 🎯 Optimizing food ordering and usage
 
 ---
 
 ### 🏫 **Course Registration System**
 *C + Raylib*
 
-My first project! A university course registration system built from scratch using:
-- C programming fundamentals
-- Graphical interfaces with Raylib
-- Database storage and retrieval concepts
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=white" alt="Raylib">
+</div>
+
+**My first project! A university course registration system built from scratch using:**
+- 💻 C programming fundamentals
+- 🎨 Graphical interfaces with Raylib
+- 🗄️ Database storage and retrieval concepts
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 **Current Focus & Roadmap**
+
+<div align="center">
+
+```mermaid
+timeline
+    title 2025 Goals & Milestones
+    section Q1 2025
+        Master DSA : DSA
+        Build Cloud Applications : Cloud
+    section Q2 2025
+        Land Top Internships : Internship
+        Contribute to Open Source : Open Source
+    section Q3 2025
+        Master Cloud & DevOps : DevOps
+        Create Impactful Products : Products
+    section Q4 2025
+        Become Tech Leader : Leadership
+        Expand AI/ML Skills : AI/ML
+```
+
+### 🚀 **Current Focus Areas**
 
 ```javascript
 const ramcharan = {
@@ -283,40 +430,42 @@ const ramcharan = {
 };
 ```
 
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramcharan-Swaminathan&theme=react-dark&hide_border=true&area=true)
-
----
-### 🏆 GitHub Trophies
-<div align-"center">
-<img width="800" src="https://github-profile-trophy.vercel.app/?username=Ramcharan-Swaminathan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/>
-</div>
-
-### 📅 Contribution Calendar
-
-<img src="https://ghchart.rshah.org/FF6600/Ramcharan-Swaminathan" alt="Ramcharan's Github chart" width="800"/>
-
 </div>
 
 ---
 
-## 🎓 Academic Journey
-
-```
-🏛️ Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai
-📚 Computer Science and Engineering 
-📅 Third Year Student (Class of 2025-26)
-🎯 Balancing academics with practical project development
-```
-
----
-
-## 🌐 Connect with Me
+## 🎮 **Fun Zone**
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+
+### 🎲 **Random Developer Facts**
+
+<details>
+<summary><b>Click to reveal a random fact about me! 🎯</b></summary>
+<br>
+
+- 🎮 I built my first project (Course Registration System) in C using Raylib!
+- 🏆 Won 1st place at InnovateX Hackathon 2025 with InterVueX
+- 💡 I can debug complex systems while designing game mechanics
+- 🎯 My code quality improves when I'm solving real-world problems
+- 🌟 I'm most productive when building systems that make a difference
+- 🎓 Balancing academics with practical project development
+
+</details>
+
+</div>
+
+---
+
+## 🌐 **Connect & Collaborate**
+
+<div align="center">
+
+### 📱 **Let's Build Something Amazing Together!**
+
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ramcharan-s-30506628a)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramcharan2310608@ssn.edu.in)
@@ -325,26 +474,96 @@ const ramcharan = {
 
 </div>
 
+</div>
+
 ---
 
-## 💡 Dev Quote to Live By
+## 💡 **Daily Dose of Wisdom**
 
 <div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+
+</div>
+
+---
+
+## 🎓 **Academic Journey**
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🏛️ SSN College of Engineering] --> B[📚 Computer Science & Engineering]
+    B --> C[📅 Third Year Student]
+    C --> D[🎯 Class of 2025-26]
+    D --> E[⚖️ Balancing Academics & Projects]
+    
+    style A fill:#36BCF7,stroke:#333,stroke-width:2px
+    style B fill:#FF6B6B,stroke:#333,stroke-width:2px
+    style C fill:#4ECDC4,stroke:#333,stroke-width:2px
+    style D fill:#45B7D1,stroke:#333,stroke-width:2px
+    style E fill:#FFA726,stroke:#333,stroke-width:2px
+```
+
+</div>
+
+---
+
+## 🚀 **Call to Action**
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+### ⭐ **Ready to Create Impact Together!**
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+
+<a href="mailto:ramcharan2310608@ssn.edu.in">
+  <img src="https://img.shields.io/badge/📧_Let's_Collaborate-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Collaborate"/>
+</a>
+<a href="www.linkedin.com/in/ramcharan-s-30506628a">
+  <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</div>
+
+**💼 Open for Summer 2025 & 26 Internships | Full Stack & Cloud Development Roles**
+
+**⭐ Star my repositories if you find them interesting!**
+
+**🌟 Let's turn your ideas into reality!**
 
 </div>
 
 ---
 
 <div align="center">
-  
-  ### 🚀 "The best way to predict the future is to invent it." - Alan Kay
-  
-  **💼 Open for Summer 2025 & 26 Internships | Full Stack & Cloud Development Roles or any other SDE roles**
-  
-  ⭐️ From [Ramcharan-Swaminathan](https://github.com/Ramcharan-Swaminathan)
-  
-  ![Visitor Count](https://profile-counter.glitch.me/Ramcharan-Swaminathan/count.svg)
+
+![Visitor Count](https://profile-counter.glitch.me/Ramcharan-Swaminathan/count.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+```ascii
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║  🚀 THANKS FOR VISITING MY DIGITAL UNIVERSE! 🚀                            ║
+║                                                                              ║
+║  ┌─┐┌─┐┌┬┐┌─┐  ┬┌─┐  ┌─┐┌─┐┌─┐┌┬┐┬─┐┬ ┬  ┌─┐┌─┐┌─┐┌─┐┌─┐┌─┐┌─┐┌─┐        ║
+║  │  │ │ ││├┤   │└─┐  ├─┘│ │├┤  │ ├┬┘└┬┘  │ ││ ││ ││ ││ ││ ││ ││ │        ║
+║  └─┘└─┘─┴┘└─┘  ┴└─┘  ┴  └─┘└─┘ ┴ ┴└─ ┴   └─┘└─┘└─┘└─┘└─┘└─┘└─┘└─┘        ║
+║                                                                              ║
+║              💻 Happy Coding! Keep Building! 💻                            ║
+║                                                                              ║
+║  "The best way to predict the future is to invent it." - Alan Kay          ║
+║                                                                              ║
+║  -- Designed with ❤️ by Ramcharan S --                                     ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
